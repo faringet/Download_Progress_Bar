@@ -1,11 +1,10 @@
 # Download_Progress_Bar
 Progress bar can keep track of a download file in progress (visualization via the console).
 
-On this training project, I challenge myself with:
+On this training project I challenge myself with:
 - io and net/http packages 
 - Goroutines
 - Delegate pattern
-
 
 
 ## Demo:
